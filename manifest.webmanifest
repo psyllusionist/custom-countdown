@@ -1,0 +1,15 @@
+{
+    "background_color": "#888",
+    "description": "Countdown to custom date",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Custom Countdown",
+    "short_name": "Countdown",
+    "start_url": "index.html"
+  }
